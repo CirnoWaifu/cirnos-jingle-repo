@@ -1,12 +1,12 @@
 # Jingle Repo Example
 
-A template repository for creating Cocoon jingle packs. Fork this repo
+A template repository for creating Cocoon jingle packs. Use this template
 to build your own collection of game jingles that can be used with
 [Cocoon](https://github.com/inssekt/CocoonFE).
 
 ## Quick Start
 
-1. **Fork** this repository.
+1. Use this repository template
 2. Add your audio files (`.mp3`, `.ogg`, `.wav`) to the repo.
 3. Update `index.json` to reference each file.
 4. In Cocoon, go to **Settings → Library & Data → Jingle Repositories**
