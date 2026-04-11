@@ -135,6 +135,7 @@
   { "name": "Undertale Red and Yellow", "file": "jingles/steam/Undertale Red and Yellow.mp3" },
   { "name": "Undertale Yellow", "file": "jingles/steam/Undertale Yellow.mp3" }
   ],
+  "entries": [
   { "name": "Chrono Trigger", "file": "jingles/multi/Chrono Trigger.mp3" },
   { "name": "Secret Agent Clank", "file": "jingles/multi/Secret Agent Clank.mp3" },
   { "name": "Persona 2 - Innocent Sin", "file": "jingles/multi/Persona 2 - Innocent Sin.mp3" },
