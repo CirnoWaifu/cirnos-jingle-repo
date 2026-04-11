@@ -1,13 +1,153 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Cirno's Jingle Pack",
+  "gba": [
+  { "name": "Boktai - The Sun is in Your Hand", "file": "jingles/gba/Boktai - The Sun is in Your Hand.mp3" },
+  { "name": "Boktai 2 - Solar Boy Django", "file": "jingles/gba/Boktai 2 - Solar Boy Django.mp3" },
+  { "name": "Final Fantasy I & II - Dawn of Souls", "file": "jingles/gba/Final Fantasy I & II - Dawn of Souls.mp3" },
+  { "name": "Golden Sun", "file": "jingles/gba/Golden Sun.mp3" },
+  { "name": "Gunstar Super Heroes", "file": "jingles/gba/Gunstar Super Heroes.mp3" },
+  { "name": "Kirby - Nightmare in Dream Land", "file": "jingles/gba/Kirby - Nightmare in Dream Land.mp3" },
+  { "name": "Klonoa - Empire of Dreams", "file": "jingles/gba/Klonoa - Empire of Dreams.mp3" },
+  { "name": "Klonoa 2 - Dream Champ Tournament", "file": "jingles/gba/Klonoa 2 - Dream Champ Tournament.mp3" },
+  { "name": "Klonoa Heroes - The Legendary Star Medal", "file": "jingles/gba/Klonoa Heroes - The Legendary Star Medal.mp3" },
+  { "name": "Klonoa Heroes - Densetsu no Star Medal", "file": "jingles/gba/Klonoa Heroes - The Legendary Star Medal.mp3" },
+  { "name": "Magical Vacation", "file": "jingles/gba/Magical Vacation.mp3" },
+  { "name": "Mario vs. Donkey Kong", "file": "jingles/gba/Mario vs. Donkey Kong.mp3" },
+  { "name": "Metalgun Slinger", "file": "jingles/gba/Metalgun Slinger.mp3" },
+  { "name": "Metroid Fusion", "file": "jingles/gba/Metroid Fusion.mp3" },
+  { "name": "Metroid Zero Mission", "file": "jingles/gba/Metroid Zero Mission.mp3" },
+  { "name": "Mother 3", "file": "jingles/gba/Mother 3.mp3" },
+  { "name": "Pokemon Mystery Dungeon - Red Rescue Team", "file": "jingles/gba/Pokemon Mystery Dungeon - Red Rescue Team.mp3" }
+  ],
+  "gbc": [
+  { "name": "Game & Watch Gallery 2", "file": "jingles/gbc/Game & Watch Gallery 2.mp3" },
+  { "name": "Metal Gear - Ghost Babel", "file": "jingles/gbc/Metal Gear - Ghost Babel.mp3" },
+  { "name": "Metal Gear Solid", "file": "jingles/gbc/Metal Gear - Ghost Babel.mp3" },
+  { "name": "Pokemon Crystal", "file": "jingles/gbc/Pokemon Crystal.mp3" },
+  { "name": "Pokemon Gold", "file": "jingles/gbc/Pokemon Gold.mp3" },
+  { "name": "Pokemon Pinball", "file": "jingles/gbc/Pokemon Pinball.mp3" },
+  { "name": "Pokemon Puzzle Challenge", "file": "jingles/gbc/Pokemon Puzzle Challenge.mp3" },
+  { "name": "Pokemon Silver", "file": "jingles/gbc/Pokemon Silver.mp3" },
+  { "name": "Pokemon Trading Card Game", "file": "jingles/gbc/Pokemon Trading Card Game.mp3" },
+  { "name": "Pokémon Crystal", "file": "jingles/gbc/Pokemon Crystal.mp3" },
+  { "name": "Pokémon Gold", "file": "jingles/gbc/Pokemon Gold.mp3" },
+  { "name": "Pokémon Pinball", "file": "jingles/gbc/Pokemon Pinball.mp3" },
+  { "name": "Pokémon Puzzle Challenge", "file": "jingles/gbc/Pokemon Puzzle Challenge.mp3" },
+  { "name": "Pokémon Silver", "file": "jingles/gbc/Pokemon Silver.mp3" },
+  { "name": "Pokémon Trading Card Game", "file": "jingles/gbc/Pokemon Trading Card Game.mp3" },
+  { "name": "Super Mario Bros. Deluxe", "file": "jingles/gbc/Super Mario Bros. Deluxe.mp3" },
+  { "name": "The Legend of Zelda - Link's Awakening DX", "file": "jingles/gbc/The Legend of Zelda - Link's Awakening DX.mp3" },
+  { "name": "The Legend of Zelda - Oracle of Ages", "file": "jingles/gbc/The Legend of Zelda - Oracle of Ages.mp3" },
+  { "name": "The Legend of Zelda - Oracle of Seasons", "file": "jingles/gbc/The Legend of Zelda - Oracle of Seasons.mp3" },
+  { "name": "Wario Land 3", "file": "jingles/gbc/Wario Land 3.mp3" }
+  ],
+  "n64": [
+  { "name": "Castlevania - Legacy of Darkness", "file": "jingles/n64/Castlevania - Legacy of Darkness.mp3" },
+  { "name": "Custom Robo", "file": "jingles/n64/Custom Robo.mp3" },
+  { "name": "F-Zero X", "file": "jingles/n64/F-Zero X.mp3" },
+  { "name": "Kirby 64 - The Crystal Shards", "file": "jingles/n64/Kirby 64 - The Crystal Shards.mp3" },
+  { "name": "Paper Mario", "file": "jingles/n64/Paper Mario.mp3" },
+  { "name": "Super Mario 64 - Beyond the Cursed Mirror", "file": "jingles/n64/Super Mario 64 - Beyond the Cursed Mirror.mp3" },
+  { "name": "Super Mario 64 - Last Impact", "file": "jingles/n64/Super Mario 64 - Last Impact.mp3" },
+  { "name": "Super Mario 64 - The Green Stars", "file": "jingles/n64/Super Mario 64 - The Green Stars.mp3" },
+  { "name": "Super Mario 64 Land", "file": "jingles/n64/Super Mario 64 Land.mp3" },
+  { "name": "Super Mario 64", "file": "jingles/n64/Super Mario 64.mp3" },
+  { "name": "Super Mario 74", "file": "jingles/n64/Super Mario 74.mp3" },
+  { "name": "Super Smash Bros. Remix", "file": "jingles/n64/Super Smash Bros. Remix.mp3" },
+  { "name": "The Legend of Zelda - The Missing Link", "file": "jingles/n64/The Legend of Zelda -  The Missing Link.mp3" },
+  { "name": "The Legend of Zelda - The Sealed Palace", "file": "jingles/n64/The Legend of Zelda - The Sealed Palace.mp3" },
+  { "name": "Totsugeki 64", "file": "jingles/n64/Totsugeki 64.mp3" },
+  { "name": "Yoshi's Story", "file": "jingles/n64/Yoshi's Story.mp3" }
+  ],
+  "nds": [
+  { "name": "Kirby Squeak Squad", "file": "jingles/nds/Kirby Squeak Squad.mp3" },
+  { "name": "Mario and Luigi - Partners in Time", "file": "jingles/nds/Mario and Luigi - Partners in Time.mp3" },
+  { "name": "Newer Super Mario Bros. DS", "file": "jingles/nds/Newer Super Mario Bros. DS.mp3" },
+  { "name": "Sonic Colors DS", "file": "jingles/nds/Sonic Colors DS.mp3" },
+  { "name": "Sonic Colours DS", "file": "jingles/nds/Sonic Colors DS.mp3" },
+  { "name": "Super Princess Peach", "file": "jingles/nds/Super Princess Peach.mp3" }
+  ],
+  "nes": [
+  { "name": "Castlevania - The Holy Relics", "file": "jingles/nes/Castlevania - The Holy Relics.mp3" },
+  { "name": "Castlevania III - Dracula's Curse", "file": "jingles/nes/Castlevania III - Dracula's Curse.mp3" },
+  { "name": "Castlevania 3 - Dracula's Curse", "file": "jingles/nes/Castlevania III - Dracula's Curse.mp3" },
+  { "name": "Darkwing Duck", "file": "jingles/nes/Darkwing Duck.mp3" },
+  { "name": "Ducktales", "file": "jingles/nes/Ducktales.mp3" },
+  { "name": "Fire Emblem Gaiden", "file": "jingles/nes/Fire Emblem Gaiden.mp3" },
+  { "name": "Kirby's Adventure", "file": "jingles/nes/Kirby's Adventure.mp3" },
+  { "name": "Super Mario Bros. 3 Mix", "file": "jingles/nes/Super Mario Bros. 3 Mix.mp3" },
+  { "name": "The Legend of Zelda - Perils of Darkness", "file": "jingles/nes/The Legend of Zelda - Perils of Darkness.mp3" }
+  ],
+  "pico8": [
+  { "name": "Celeste 2", "file": "jingles/ps2/Celeste 2.mp3" },
+  { "name": "Celeste", "file": "jingles/ps2/Celeste Classic.mp3" }
+  { "name": "Celeste Classic", "file": "jingles/ps2/Celeste Classic.mp3" }
+  ],
+  "ps2": [
+  { "name": "Ape Escape 3", "file": "jingles/ps2/Ape Escape 3.mp3" },
+  { "name": "Gitaroo Man", "file": "jingles/ps2/Gitaroo Man.mp3" },
+  { "name": "God Hand (2006)", "file": "jingles/ps2/God Hand (2006).mp3" },
+  { "name": "God Hand", "file": "jingles/ps2/God Hand (2006).mp3" },
+  { "name": "Jojo no Kimyou na Bouken - Ougon no Kaze", "file": "jingles/ps2/Jojo no Kimyou na Bouken - Ougon no Kaze.mp3" },
+  { "name": "GioGio's Bizarre Adventure", "file": "jingles/ps2/Jojo no Kimyou na Bouken - Ougon no Kaze.mp3" },
+  { "name": "Prince of Persia - The Sands of Time", "file": "jingles/multi/Prince of Persia - The Sands of Time.mp3" },
+  { "name": "Shadow Hearts", "file": "jingles/ps2/Shadow Hearts.mp3" },
+  { "name": "Shin Megami Tensei - Digital Devil Saga", "file": "jingles/ps2/Shin Megami Tensei - Digital Devil Saga.mp3" },
+  { "name": "Sly Cooper and the Thievius Raccoonus", "file": "jingles/ps2/Sly Cooper.mp3" },
+  { "name": "Sly Racoon", "file": "jingles/ps2/Sly Cooper.mp3" }
+  { "name": "God of War", "file": "jingles/multi/God of War (2005).mp3" },
+  ],
+  "psp": [
+  { "name": "LocoRoco", "file": "jingles/psp/LocoRoco.mp3" },
+  { "name": "Metal Gear Acid", "file": "jingles/psp/Metal Gear Acid.mp3" },
+  { "name": "Metal Gear Ac!d", "file": "jingles/psp/Metal Gear Acid.mp3" },
+  { "name": "Metal Gear Solid - Portable Ops", "file": "jingles/psp/Metal Gear Solid - Portable Ops.mp3" },
+  { "name": "Patapon", "file": "jingles/psp/Patapon.mp3" },
+  { "name": "Splinter Cell Essentials", "file": "jingles/psp/Splinter Cell Essentials.mp3" }
+  ],
+  "psx": [
+  { "name": "Castlevania Chronicles", "file": "jingles/psx/Castlevania Chronicles.mp3" },
+  { "name": "Crash Bandicoot 2 - Cortex Strikes Back", "file": "jingles/psx/Crash Bandicoot 2 - Cortex Strikes Back.mp3" },
+  { "name": "Crash Bandicoot 3 - Warped", "file": "jingles/psx/Crash Bandicoot 3 - Warped.mp3" },
+  { "name": "Crash Bandicoot", "file": "jingles/psx/Crash Bandicoot.mp3" },
+  { "name": "The Misadventures of Tron Bonne", "file": "jingles/psx/The Misadventures of Tron Bonne.mp3" },
+  { "name": "Um Jammer Lammy", "file": "jingles/psx/Um Jammer Lammy.mp3" },
+  { "name": "Wild Arms", "file": "jingles/psx/Wild Arms.mp3" }
+  ],
+  "snes": [
+  { "name": "Earthbound Halloween Hack", "file": "jingles/snes/Earthbound Halloween Hack.mp3" },
+  { "name": "Magical Pop'n", "file": "jingles/snes/Magical Pop'n.mp3" },
+  { "name": "Mega Man X", "file": "jingles/snes/Mega Man X.mp3" },
+  { "name": "Mega Man X2", "file": "jingles/snes/Mega Man X2.mp3" },
+  { "name": "Mega Man X3", "file": "jingles/snes/Mega Man X3.mp3" },
+  { "name": "Star Fox", "file": "jingles/snes/Star Fox.mp3" },
+  { "name": "Super Castlevania IV", "file": "jingles/snes/Super Castlevania IV.mp3" },
+  { "name": "Super Castlevania 4", "file": "jingles/snes/Super Castlevania IV.mp3" },
+  { "name": "Super Junkoid", "file": "jingles/snes/Super Junkoid.mp3" },
+  { "name": "Super Mario World", "file": "jingles/snes/Super Mario World.mp3" },
+  { "name": "Super Metroid", "file": "jingles/snes/Super Metroid.mp3" },
+  { "name": "The Legend of Zelda - A Link to the Past", "file": "jingles/snes/The Legend of Zelda - A Link to the Past.mp3" }
+  ],
+  "steam": [
+  { "name": "Mewgenics", "file": "jingles/steam/Mewgenics.mp3" },
+  { "name": "Sonic the Hedgehog Megamix Mania", "file": "jingles/steam/Sonic the Hedgehog Megamix Mania.mp3" },
+  { "name": "Sonic Mania Megamix", "file": "jingles/steam/Sonic the Hedgehog Megamix Mania.mp3" },
+  { "name": "Undertale Red and Yellow", "file": "jingles/steam/Undertale Red and Yellow.mp3" },
+  { "name": "Undertale Yellow", "file": "jingles/steam/Undertale Yellow.mp3" }
+  ],
   "entries": [
-    {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
-    },
-    {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
-    }
-  ]
+  { "name": "Chrono Trigger", "file": "jingles/multi/Chrono Trigger.mp3" },
+  { "name": "Secret Agent Clank", "file": "jingles/multi/Secret Agent Clank.mp3" },
+  { "name": "Persona 2 - Innocent Sin", "file": "jingles/multi/Persona 2 - Innocent Sin.mp3" },
+  { "name": "N Plus", "file": "jingles/multi/N Plus.mp3" },
+  { "name": "Jak and Daxter - The Lost Frontier", "file": "jingles/multi/Jak and Daxter - The Lost Frontier.mp3" },
+  { "name": "Prince of Persia - The Sands of Time", "file": "jingles/multi/Prince of Persia - The Sands of Time.mp3" },
+  { "name": "God of War (2005)", "file": "jingles/multi/God of War (2005).mp3" },
+  { "name": "Dokapon Kingdom", "file": "jingles/multi/Dokapon Kingdom.mp3" },
+  { "name": "Curse Crackers - For Whom the Belle Toils", "file": "jingles/multi/Curse Crackers For Whom the Belle Toils.mp3" },
+  { "name": "Deltarune", "file": "jingles/multi/Deltarune.mp3" },
+  { "name": "Touhou Luna Nights", "file": "jingles/multi/Touhou Luna Nights.mp3" },
+  { "name": "Touhou Mystia's Izakaya", "file": "jingles/multi/Touhou Mystia's Izakaya.mp3" },
+  { "name": "Undertale", "file": "jingles/multi/Undertale.mp3" },
+  { "name": "Vampire Survivors", "file": "jingles/multi/Vampire Survivors.mp3" }
 }
