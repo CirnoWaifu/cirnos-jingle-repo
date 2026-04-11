@@ -5,13 +5,6 @@ A forked repo made for use for Cocoon jingles.
 
 [Make sure to check back to the original repo as well!](https://github.com/inssekt/cocoon-jingle-repo/tree/main)
 
-# Jingle Repo Example
-
-A forked repo made for use for Cocoon jingles.
-[Cocoon](https://github.com/inssekt/CocoonFE).
-
-[Make sure to check back to the original repo as well!](https://github.com/inssekt/cocoon-jingle-repo/tree/main)
-
 The following is a list of all the games that should have jingles:
 
 * **Multi-Platform (might not all be multi-plat but they are in that jingle folder):**
