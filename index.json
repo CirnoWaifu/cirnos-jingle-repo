@@ -80,7 +80,7 @@
   ],
   "pico8": [
   { "name": "Celeste 2", "file": "jingles/ps2/Celeste 2.mp3" },
-  { "name": "Celeste", "file": "jingles/ps2/Celeste Classic.mp3" }
+  { "name": "Celeste", "file": "jingles/ps2/Celeste Classic.mp3" },
   { "name": "Celeste Classic", "file": "jingles/ps2/Celeste Classic.mp3" }
   ],
   "ps2": [
@@ -94,8 +94,8 @@
   { "name": "Shadow Hearts", "file": "jingles/ps2/Shadow Hearts.mp3" },
   { "name": "Shin Megami Tensei - Digital Devil Saga", "file": "jingles/ps2/Shin Megami Tensei - Digital Devil Saga.mp3" },
   { "name": "Sly Cooper and the Thievius Raccoonus", "file": "jingles/ps2/Sly Cooper.mp3" },
-  { "name": "Sly Racoon", "file": "jingles/ps2/Sly Cooper.mp3" }
-  { "name": "God of War", "file": "jingles/multi/God of War (2005).mp3" },
+  { "name": "Sly Racoon", "file": "jingles/ps2/Sly Cooper.mp3" },
+  { "name": "God of War", "file": "jingles/multi/God of War (2005).mp3" }
   ],
   "psp": [
   { "name": "LocoRoco", "file": "jingles/psp/LocoRoco.mp3" },
