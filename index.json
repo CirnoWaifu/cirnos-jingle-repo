@@ -135,7 +135,6 @@
   { "name": "Undertale Red and Yellow", "file": "jingles/steam/Undertale Red and Yellow.mp3" },
   { "name": "Undertale Yellow", "file": "jingles/steam/Undertale Yellow.mp3" }
   ],
-  "entries": [
   { "name": "Chrono Trigger", "file": "jingles/multi/Chrono Trigger.mp3" },
   { "name": "Secret Agent Clank", "file": "jingles/multi/Secret Agent Clank.mp3" },
   { "name": "Persona 2 - Innocent Sin", "file": "jingles/multi/Persona 2 - Innocent Sin.mp3" },
@@ -150,4 +149,5 @@
   { "name": "Touhou Mystia's Izakaya", "file": "jingles/multi/Touhou Mystia's Izakaya.mp3" },
   { "name": "Undertale", "file": "jingles/multi/Undertale.mp3" },
   { "name": "Vampire Survivors", "file": "jingles/multi/Vampire Survivors.mp3" }
+  ]
 }
