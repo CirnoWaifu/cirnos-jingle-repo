@@ -278,7 +278,7 @@
     { "name": "Shadow Labyrinth", "file": "jingles/multi/Shadow Labyrinth.mp3", "regex": "shadow labyrinth" },
     { "name": "Sonic Adventure 2", "file": "jingles/multi/Sonic Adventure 2.mp3", "regex": "sonic adventure 2" },
     { "name": "Soulcalibur 2", "file": "jingles/multi/Soulcalibur 2.mp3", "regex": "soulcalibur (ii|2)" },
-    { "name": "Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars", "file": "jingles/multi/Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars.mp3", "regex": "suikoden (i & ii|1 & 2).*remaster" },
+    { "name": "Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars", "file": "jingles/multi/Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars.mp3", "regex": "suikoden (i & ii|i and ii|1 and 2|1 & 2).*remaster" },
     { "name": "Undertale", "file": "jingles/multi/Undertale.mp3", "regex": "^undertale$" },
     { "name": "Vampire Survivors", "file": "jingles/multi/Vampire Survivors.mp3", "regex": "vampire survivors" },
     { "name": "Yakuza 0", "file": "jingles/multi/Yakuza 0.mp3", "regex": "^yakuza 0$" },
