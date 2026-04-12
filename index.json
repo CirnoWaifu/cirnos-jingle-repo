@@ -136,7 +136,7 @@
     { "name": "Mega Man Battle & Fighters", "file": "jingles/ngpc/Mega Man Battle & Fighters.mp3", "regex": "(mega man|rock man) battle (and|&) fighters" },
     { "name": "Metal Slug 1st Mission", "file": "jingles/ngpc/Metal Slug 1st Mission.mp3", "regex": "metal slug 1st mission" },
     { "name": "Puyo Pop", "file": "jingles/ngpc/Puyo Pop.mp3", "regex": "^puyo pop$" },
-    { "name": "Puzzle Bobble Mini", "file": "jingles/ngpc/Puzzle Bobble Mini.mp3", "regex": "puzzle bobble mini" },
+    { "name": "Puzzle Bobble Mini", "file": "jingles/ngpc/Puzzle Bobble Mini.mp3", "regex": "(puzzle bobble mini|bust-a-move pocket)" },
     { "name": "Sonic Pocket Adventure", "file": "jingles/ngpc/Sonic Pocket Adventure.mp3", "regex": "sonic pocket adventure" },
     { "name": "NGPC END", "file": "jingles/categoryGAP.mp3" },
     { "name": "Castlevania Chronicles", "file": "jingles/psx/Castlevania Chronicles.mp3", "regex": "castlevania chronicles" },
