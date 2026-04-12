@@ -226,7 +226,7 @@
     { "name": "Touhou Puppet Play Enhanced", "file": "jingles/gba/Touhou Puppet Play Enhanced.mp3", "regex": "touhou puppet play enhanced" },
     { "name": "Touhou Rououmu", "file": "jingles/nes/Touhou Rououmu.mp3", "regex": "touhou rououmu" },
     { "name": "Touhoumon Another World Version", "file": "jingles/gba/Touhoumon Another World Version Revised.mp3", "regex": "touhoumon another world" },
-    { "name": "Touhoumon World Link Version", "file": "jingles/gba/Touhoumon World Link Version Revised.mp3", "regex": "touhoumon world link" },
+    { "name": "Touhoumon World Link Version", "file": "jingles/gba/Touhou Puppet Play World Link Version Revised.mp3", "regex": "touhoumon world link" },
     { "name": "Udongein X", "file": "jingles/touhou/Udongein X.mp3", "regex": "udongein x" },
 	{ "name": "TOUHOU END", "file": "jingles/categoryGAP.mp3" },
     { "name": "Cyberpunk 2077", "file": "jingles/steam/Cyberpunk 2077.mp3", "regex": "cyberpunk 2077" },
