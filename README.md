@@ -262,7 +262,7 @@ The following is a list of all the games that should have jingles:
   * Mega Man X
   * Mega Man X2
   * Mega Man X3
-  * Romancing SaGa (newly added)
+  * Romancing SaGa 2 (newly added)
   * Star Fox
   * Super Castlevania IV
   * Super Junkoid
