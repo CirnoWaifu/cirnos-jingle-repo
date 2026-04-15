@@ -8,101 +8,133 @@ A forked repo made for use for Cocoon jingles.
 The following is a list of all the games that should have jingles:
 
 * **Multi-Platform (might not all be multi-plat but they are in that jingle folder):**
-  * Archibald's Adventures (newly added)
-  * Assassin's Creed IV Black Flag (newly added)
-  * Cave Story (newly added)
+  * ANTONBLAST (newly added)
+  * Archibald's Adventures
+  * Assassin's Creed IV Black Flag
+  * BLADECHIMERA (newly added)
+  * Cave Story
+  * Chrono Ark (newly added)
   * Chrono Trigger
   * Curse Crackers - For Whom the Belle Toils
+  * Dead Cells (newly added)
   * Deltarune
   * Dokapon Kingdom
-  * Fallout 3 (newly added)
-  * Fallout New Vegas (newly added)
-  * Gato Roboto (newly added)
+  * Epic Battle Fantasy 5 (newly added)
+  * Fallout 3
+  * Fallout New Vegas
+  * Gal Guardians - Servants of the Dark (newly added)
+  * Gato Roboto
+  * Ghost Trick - Phantom Detective (newly added)
   * God of War (2005)
-  * Grand Theft Auto -  Chinatown Wars (newly added)
-  * Guacamelee! Super Turbo Championship Edition (newly added)
+  * Grand Theft Auto -  Chinatown Wars
+  * Guacamelee! Super Turbo Championship Edition
   * Jak and Daxter - The Lost Frontier
-  * Juufuutei Raden's Guide for Pixel Museum (newly added)
-  * Metal Gear Rising - Revengeance (newly added)
-  * Metal Gear Solid 2 - Sons of Liberty (newly added)
-  * Metal Gear Solid 3 - Snake Eater (newly added)
-  * Mighty Flip Champs (newly added)
-  * Momodora Moonlit Farewell (newly added)
+  * Juufuutei Raden's Guide for Pixel Museum
+  * Metal Gear (newly added)
+  * Metal Gear 2 - Solid Snake (newly added)
+  * Metal Gear Rising - Revengeance
+  * Metal Gear Solid (newly added)
+  * Metal Gear Solid VR Missions (newly added)
+  * Metal Gear Solid 2 - Sons of Liberty
+  * Metal Gear Solid 3 - Snake Eater
+  * Mighty Flip Champs
+  * Minecraft (newly added)
+  * Momodora Moonlit Farewell
+  * Muse Dash (newly added)
   * N Plus
-  * Okami (newly added)
-  * Pac-Man Championship Edition (newly added)
-  * Persona 3 Portable (newly added)
+  * Neon White (newly added)
+  * Okami
+  * Pac-Man Championship Edition
+  * Peglin (newly added)
+  * Persona 3 Portable
   * Prince of Persia - The Sands of Time
-  * Rogue Legacy (newly added)
+  * Rabi-Ribi (newly added)
+  * Rogue Legacy
   * Secret Agent Clank
-  * Shadow Labyrinth (newly added)
-  * Sonic Adventure 2 (newly added)
-  * Soulcalibur 2 (newly added)
-  * Suikoden I & II HD Remaster (newly added)
+  * Shadow Labyrinth
+  * Snake's Revenge (newly added)
+  * Sonic Adventure 2
+  * Soulcalibur 2
+  * Suikoden I & II HD Remaster
+  * The Messenger (newly added)
   * Undertale
   * Vampire Survivors
-  * Yakuza 0 (newly added)
-  * Yakuza Kiwami (newly added)
+  * WitchSpring R (newly added)
+  * WitchSpring 3 ReFine (newly added)
+  * Yakuza 0
+  * Yakuza Kiwami
 
 * **Touhou:**
-  * Cirno! Lifts a Boulder (newly added)
-  * Fantasy Maiden Wars - Dream of the Stray Dreamer (newly added)
-  * Labyrinth of Touhou 2 (newly added)
-  * Touhou - Highly Responsive to Prayers (newly added)
-  * Touhou 2 - Story of Eastern Wonderland (newly added)
-  * Touhou 3 - Phantasmagoria of Dim Dream (newly added)
-  * Touhou 4 - lotus Land Story (newly added)
-  * Touhou 5 - Mystic Square (newly added)
-  * Touhou 6 - Embodiment of Scarlet Devil (newly added)
-  * Touhou 7 - Perfect Cherry Blossom (newly added)
-  * Touhou 7.5 - Immaterial and Missing Power (newly added)
-  * Touhou 8 - Imperishable Night (newly added)
-  * Touhou 9 - Phantasmagoria of Flower View (newly added)
-  * Touhou 9.5 - Shoot the Bullet (newly added)
-  * Touhou 10 - Mountain of Faith (newly added)
-  * Touhou 10.5 - Scarlet Weather Rhapsody (newly added)
-  * Touhou 11 - Subterranean Animism (newly added)
-  * Touhou 12 - Undefined Fantastic Object (newly added)
-  * Touhou 12.3 - Hisoutensoku (newly added)
-  * Touhou 12.5 - Double Spoiler (newly added)
-  * Touhou 12.8 - Great Fairy Wars (newly added)
-  * Touhou 13 - Ten Desires (newly added)
-  * Touhou 13.5 - Hopeless Masquerade (newly added)
-  * Touhou 14 - Double Dealing Character (newly added)
-  * Touhou 14.3 - Impossible Spell Card (newly added)
-  * Touhou 14.5 - Urban Legend in Limbo (newly added)
-  * Touhou 15 - Legacy of Lunatic Kingdom (newly added)
-  * Touhou 15.5 - Antinomy of Common Flower (newly added)
-  * Touhou 16 - Hidden Star in Four Seasons (newly added)
-  * Touhou 16.5 - Violet Detector (newly added)
-  * Touhou 17 - Wily Beast and Weakest Creature (newly added)
-  * Touhou 17.5 - Sunken Fossil World (newly added)
-  * Touhou 18 - Unconnected Marketeers (newly added)
-  * Touhou 18.5 - Hidden Black Market (newly added)
-  * Touhou 19 - Unfinished Dream of All Living Ghost (newly added)
-  * Touhou 20 - Fossilised Wonders (newly added)
-  * Touhou Artificial Dream in Arcadia (newly added)
-  * Touhou Genso Wanderer Reloaded (newly added)
-  * Touhou Hero of Ice Fairy (newly added)
-  * Touhou Lost Branch of Legend (newly added)
+  * Cirno! Lifts a Boulder
+  * Fantasy Maiden Wars - Dream of the Stray Dreamer
+  * Help Me Remember, Satori-sama (newly added)
+  * I Am Sakuya (newly added)
+  * Labyrinth of Touhou 2
+  * Marisa of Liartop Mountain (newly added)
+  * Shanghai.EXE (newly added)
+  * Touhou - Highly Responsive to Prayers
+  * Touhou 2 - Story of Eastern Wonderland
+  * Touhou 3 - Phantasmagoria of Dim Dream
+  * Touhou 4 - lotus Land Story
+  * Touhou 5 - Mystic Square
+  * Touhou 6 - Embodiment of Scarlet Devil
+  * Touhou 7 - Perfect Cherry Blossom
+  * Touhou 7.5 - Immaterial and Missing Power
+  * Touhou 8 - Imperishable Night
+  * Touhou 9 - Phantasmagoria of Flower View
+  * Touhou 9.5 - Shoot the Bullet
+  * Touhou 10 - Mountain of Faith
+  * Touhou 10.5 - Scarlet Weather Rhapsody
+  * Touhou 11 - Subterranean Animism
+  * Touhou 12 - Undefined Fantastic Object
+  * Touhou 12.3 - Hisoutensoku
+  * Touhou 12.5 - Double Spoiler
+  * Touhou 12.8 - Great Fairy Wars
+  * Touhou 13 - Ten Desires
+  * Touhou 13.5 - Hopeless Masquerade
+  * Touhou 14 - Double Dealing Character
+  * Touhou 14.3 - Impossible Spell Card
+  * Touhou 14.5 - Urban Legend in Limbo
+  * Touhou 15 - Legacy of Lunatic Kingdom
+  * Touhou 15.5 - Antinomy of Common Flower
+  * Touhou 16 - Hidden Star in Four Seasons
+  * Touhou 16.5 - Violet Detector
+  * Touhou 17 - Wily Beast and Weakest Creature
+  * Touhou 17.5 - Sunken Fossil World
+  * Touhou 18 - Unconnected Marketeers
+  * Touhou 18.5 - Hidden Black Market
+  * Touhou 19 - Unfinished Dream of All Living Ghost
+  * Touhou 20 - Fossilised Wonders
+  * Touhou-A-Live (newly added)
+  * Touhou Artificial Dream in Arcadia
+  * Touhou Dystopian (newly added)
+  * Touhou Genso Wanderer Reloaded
+  * Touhou Gensomaroku W - The Devil of Decline (newly added)
+  * Touhou Hero of Ice Fairy
+  * Touhou Lost Branch of Legend
   * Touhou Luna Nights
   * Touhou Mystia's Izakaya
-  * Touhou Puppet Dance Performance (newly added)
-  * Touhou Puppet Play Enhanced (newly added)
-  * Touhou Rououmu (newly added)
-  * Touhoumon Another World Version (newly added)
-  * Touhoumon World Link Version (newly added)
-  * Udongein X (newly added)
+  * Touhou Puppet Dance Performance
+  * Touhou Puppet Play Enhanced
+  * Touhou Rououmu
+  * Touhoumon Another World Version
+  * Touhoumon World Link Version
+  * Udongein X
+  * Youiyami Dancers - Twilight Danmaku Dancers (newly added)
+
+* **Android:**
+  * Persona 5: The Phantom X (newly added)
+  * Umamusume Pretty Derby (newly added)
   
 * **Gamecube:**
-  * Super Mario Eclipse (newly added)
-  * Viewtiful Joe (newly added)
+  * Super Mario Eclipse
+  * Viewtiful Joe
 
 * **GBA:**
-  * Black Matrix Zero (newly added)
+  * Black Matrix Zero
   * Boktai - The Sun is in Your Hand
   * Boktai 2 - Solar Boy Django
-  * Dokapon Monster Hunter (newly added)
+  * Dokapon Monster Hunter
   * Final Fantasy I & II - Dawn of Souls
   * Golden Sun
   * Gunstar Super Heroes
@@ -110,7 +142,7 @@ The following is a list of all the games that should have jingles:
   * Klonoa - Empire of Dreams
   * Klonoa 2 - Dream Champ Tournament
   * Klonoa Heroes - The Legendary Star Medal
-  * Lunar Legend (newly added)
+  * Lunar Legend
   * Magical Vacation
   * Mario vs. Donkey Kong
   * Metalgun Slinger
@@ -118,21 +150,21 @@ The following is a list of all the games that should have jingles:
   * Metroid Zero Mission
   * Mother 3
   * Pokemon Mystery Dungeon - Red Rescue Team
-  * Summon Night Swordcraft Story (newly added)
-  * Super Mario Advance - Super Mario Bros. 2 (newly added)
-  * Super Mario Advance 2 - Super Mario World (newly added)
-  * Super Mario Advance 3 - Yoshi's Island (newly added)
-  * Super Mario Advance 4 - Super Mario Bros. 3 (newly added)
-  * Super Mariomon (newly added)
-  * The Legend of Zelda - A Link to the Past + Four Swords (newly added)
-  * The Legend of Zelda - The Minish Cap (newly added)
-  * Tomato Adventure (newly added)
-  * Wario Land 4 (newly added)
+  * Summon Night Swordcraft Story
+  * Super Mario Advance - Super Mario Bros. 2
+  * Super Mario Advance 2 - Super Mario World
+  * Super Mario Advance 3 - Yoshi's Island
+  * Super Mario Advance 4 - Super Mario Bros. 3
+  * Super Mariomon
+  * The Legend of Zelda - A Link to the Past + Four Swords
+  * The Legend of Zelda - The Minish Cap
+  * Tomato Adventure
+  * Wario Land 4
 
 * **GBC:**
   * Game & Watch Gallery 2
-  * Mario Golf (GBC) (newly added)
-  * Mario Tennis (GBC) (newly added)
+  * Mario Golf (GBC)
+  * Mario Tennis (GBC)
   * Metal Gear - Ghost Babel
   * Pokemon Crystal
   * Pokemon Gold
@@ -147,8 +179,8 @@ The following is a list of all the games that should have jingles:
   * Wario Land 3
 
 * **N64:**
-  * B3313 / Internal Plexus (newly added)
-  * Castlevania 64 (newly added)
+  * B3313 / Internal Plexus
+  * Castlevania 64
   * Castlevania - Legacy of Darkness
   * Custom Robo
   * F-Zero X
@@ -167,16 +199,16 @@ The following is a list of all the games that should have jingles:
   * Yoshi's Story
 
 * **NDS:**
-  * A Witch's Tale (newly added)
-  * Ace Attorney Investigations (newly added)
+  * A Witch's Tale
+  * Ace Attorney Investigations
   * Kirby Squeak Squad
   * Mario and Luigi - Partners in Time
   * Newer Super Mario Bros. DS
-  * Picross DS (newly added)
+  * Picross DS
   * Sonic Colors DS
   * Super Princess Peach
-  * Tetris DS (newly added)
-  * Worms Open Warfare 2 (newly added)
+  * Tetris DS
+  * Worms Open Warfare 2
 
 * **NES:**
   * Castlevania - The Holy Relics
@@ -189,11 +221,11 @@ The following is a list of all the games that should have jingles:
   * The Legend of Zelda - Perils of Darkness
   
 * **NGPC:**
-  * Mega Man Battle & Fighters (newly added)
-  * Metal Slug 1st Mission (newly added)
-  * Puyo Pop (newly added)
-  * Puzzle Bobble Mini (newly added)
-  * Sonic Pocket Adventure (newly added)
+  * Mega Man Battle & Fighters
+  * Metal Slug 1st Mission
+  * Puyo Pop
+  * Puzzle Bobble Mini
+  * Sonic Pocket Adventure
   
 * **Pico-8:**
   * Celeste Classic
@@ -204,57 +236,59 @@ The following is a list of all the games that should have jingles:
   * Crash Bandicoot
   * Crash Bandicoot 2 - Cortex Strikes Back
   * Crash Bandicoot 3 - Warped
-  * MediEvil (newly added)
-  * MediEvil II (newly added)
+  * MediEvil
+  * MediEvil II
   * The Misadventures of Tron Bonne
   * Um Jammer Lammy
   * Wild Arms
   
 * **PS2:**
-  * Ape Escape - Big Mission (newly added)
+  * Ape Escape - Big Mission
   * Ape Escape 3
-  * Berserk - Millenium Falcon (newly added)
-  * Cowboy Bebop - Tsuitou no Yakyoku (newly added)
+  * Berserk - Millenium Falcon
+  * Cowboy Bebop - Tsuitou no Yakyoku
   * Gitaroo Man
   * God Hand (2006)
-  * Jak II (newly added)
-  * Jak III (newly added)
+  * Jak II
+  * Jak III
   * JoJo no Kimyou na Bouken - Ougon no Kaze
-  * Persona 4 (newly added)
-  * Ratchet and Clank (newly added)
-  * Ratchet and Clank 2 (newly added)
-  * Ratchet and Clank 3 (newly added)
-  * Ratchet Deadlocked (newly added)
+  * Persona 4
+  * Ratchet and Clank
+  * Ratchet and Clank 2
+  * Ratchet and Clank 3
+  * Ratchet Deadlocked
   * Shadow Hearts
   * Shin Megami Tensei - Digital Devil Saga
   * Sly Cooper and the Thevius Racoonus
-  * Soul Eater - Battle Resonance (newly added)
-  * Yakuza (newly added)
-  * Yakuza 2 (newly added)
+  * Soul Eater - Battle Resonance
+  * Yakuza
+  * Yakuza 2
   
 * **PSP:**
-  * Bakemonogatari Portable (newly added)
-  * Castlevania - The Dracula X Chronicles (newly added)
-  * Jeanne D'Arc (newly added)
-  * LittleBigPlanet PSP (newly added)
+  * Bakemonogatari Portable
+  * Castlevania - The Dracula X Chronicles
+  * Jeanne D'Arc
+  * LittleBigPlanet PSP
   * LocoRoco
-  * Mega Man Maverick Hunter X (newly added)
-  * Metal Gear Acid
+  * Mega Man Maverick Hunter X
+  * Metal Gear Ac!d
+  * Metal Gear Solid - Peace Walker (newly added)
   * Metal Gear Solid - Portable Ops
+  * Metal Gear Solid - Portable Ops Plus (newly added)
   * Patapon
   * Persona 2 - Innocent Sin
-  * Phantom Brave - The Hermuda Triangle (newly added)
-  * Prinny - Can I Really Be the Hero? (newly added)
+  * Phantom Brave - The Hermuda Triangle
+  * Prinny - Can I Really Be the Hero?
   * Splinter Cell Essentials
-  * Super Robot Taisen A - Portable (newly added)
-  * Tetris Ultimate (newly added)
+  * Super Robot Taisen A - Portable
+  * Tetris Ultimate
   
 * **Saturn:**
-  * Nights into Dreams...  (newly added)
-  * Panzer Dragoon (newly added)
-  * Sonic 3D Blast (newly added)
-  * Sonic R (newly added)
-  * Wipeout 2097 (newly added)
+  * Nights into Dreams... 
+  * Panzer Dragoon
+  * Sonic 3D Blast
+  * Sonic R
+  * Wipeout 2097
   
 * **SNES:**
   * Earthbound Halloween Hack
@@ -262,7 +296,7 @@ The following is a list of all the games that should have jingles:
   * Mega Man X
   * Mega Man X2
   * Mega Man X3
-  * Romancing SaGa 2 (newly added)
+  * Romancing SaGa 2
   * Star Fox
   * Super Castlevania IV
   * Super Junkoid
@@ -271,37 +305,62 @@ The following is a list of all the games that should have jingles:
   * The Legend of Zelda - A Link to the Past
 
 * **Steam:**
-  * Cyberpunk 2077 (newly added)
-  * Judgment (newly added)
-  * Like a Dragon - Pirate Yakuza in Hawaii (newly added)
-  * Like a Dragon 8 - Infinite Wealth (newly added)
-  * Like a Dragon Gaiden - The Man Who Erased His Name (newly added)
-  * Lost Judgment (newly added)
-  * Mega Man X Dive Offline (newly added)
+  * 100% Orange Juice (newly added)
+  * Blue Prince (newly added)
+  * Chrono Gear - Warden of Time (newly added)
+  * Copy Kitty (newly added)
+  * Cyberpunk 2077
+  * Demon Tides (newly added)
+  * FLARE NUINUI QUEST (newly added)
+  * FUBUKI - zero in on Holoearth (newly added)
+  * Golden Warden (newly added)
+  * Holo vs Robo (newly added)
+  * HoloCure (newly added)
+  * Judgment
+  * Last Command (newly added)
+  * Leximan (newly added)
+  * Like a Dragon - Pirate Yakuza in Hawaii
+  * Like a Dragon 8 - Infinite Wealth
+  * Like a Dragon Gaiden - The Man Who Erased His Name
+  * Lost Judgment
+  * Lovish (newly added)
+  * Mega Man X Dive Offline
+  * Metal Gear Solid 5 - Ground Zeroes (newly added)
+  * Metal Gear Solid 5 - The Phantom Pain (newly added)
   * Mewgenics
-  * Poker Night at the Inventory (newly added)
-  * Pseudoregalia (newly added)
+  * Poker Night at the Inventory
+  * Pseudoregalia
   * Sonic the Hedgehog Megamix Mania
+  * Super Meat Boy 3D (newly added)
   * Undertale Red and Yellow
   * Undertale Yellow
-  * Yakuza Kiwami 2 (newly added)
-  * Yakuza 3 (newly added)
-  * Yakuza 4 (newly added)
-  * Yakuza 5 (newly added)
-  * Yakuza 6 - The Song of Life (newly added)
-  * Yakuza 7 - Like a Dragon (newly added)
+  * Void Stranger (newly added)
+  * Yakuza Kiwami 2
+  * Yakuza 3
+  * Yakuza 4
+  * Yakuza 5
+  * Yakuza 6 - The Song of Life
+  * Yakuza 7 - Like a Dragon
   
 * **Switch:**
-  * Fire Emblem Three Houses (newly added)
-  * Pokemon Brilliant Diamond (newly added)
+  * Animal Crossing - New Horizons (newly added)
+  * Bayonetta 3 (newly added)
+  * Fire Emblem Three Houses
+  * Mario and Luigi - Brothership (newly added)
+  * Mario Kart 8 Deluxe (newly added)
+  * Pokemon Brilliant Diamond
+  * Pokemon Scarlet (newly added)
+  * Pokemon Shining Pearl (newly added)
+  * Pokemon Violet (newly added)
+  * Tomodachi Life - Living the Dream (newly added)
   
 * **Wii:**
-  * Kirby's Epic Yarn (newly added)
-  * Madworld (newly added)
-  * Super Mario Galaxy (newly added)
-  * Super Mario Galaxy 2 (newly added)
-  * Xenoblade Chronicles (newly added)
+  * Kirby's Epic Yarn
+  * Madworld
+  * Super Mario Galaxy
+  * Super Mario Galaxy 2
+  * Xenoblade Chronicles
   
 * **Wii U:**
-  * Game & Wario (newly added)
-  * The Wonderful 101 (newly added)
+  * Game & Wario
+  * The Wonderful 101
