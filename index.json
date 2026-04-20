@@ -146,7 +146,7 @@
     { "name": "Splinter Cell Essentials", "file": "jingles/psp/Splinter Cell Essentials.mp3", "regex": "splinter cell essentials" },
     { "name": "Super Robot Taisen A - Portable", "file": "jingles/psp/Super Robot Taisen A - Portable.mp3", "regex": "super robot tais[ea]n a.*portable" },
     { "name": "Tetris Ultimate", "file": "jingles/psp/Tetris Ultimate.mp3", "regex": "tetris ultimate" },
-    { "name": "The 3rd Birthday", "file": "jingles/psp/The 3rd Birthday.mp3", "regex": "3rd birthday" },
+    { "name": "The 3rd Birthday", "file": "jingles/psp/The 3rd Birthday.mp3", "regex": "(third|3rd) birthday" },
     { "name": "PSP END", "file": "jingles/categoryGAP.mp3" },
     { "name": "Mega Man Battle & Fighters", "file": "jingles/ngpc/Mega Man Battle & Fighters.mp3", "regex": "(mega man|rock man) battle (and|&) fighters" },
     { "name": "Metal Slug 1st Mission", "file": "jingles/ngpc/Metal Slug 1st Mission.mp3", "regex": "metal slug 1st mission" },

@@ -8,70 +8,111 @@ A forked repo made for use for Cocoon jingles.
 The following is a list of all the games that should have jingles:
 
 * **Multi-Platform (might not all be multi-plat but they are in that jingle folder):**
-  * ANTONBLAST (newly added)
+  * ANTONBLAST
+  * Apollo Justice - Ace Attorney (newly added)
   * Archibald's Adventures
   * Assassin's Creed IV Black Flag
-  * BLADECHIMERA (newly added)
+  * BLADECHIMERA
   * Cave Story
-  * Chrono Ark (newly added)
+  * Chrono Ark
   * Chrono Trigger
   * Curse Crackers - For Whom the Belle Toils
-  * Dead Cells (newly added)
+  * Dead Cells
   * Deltarune
   * Dokapon Kingdom
-  * Epic Battle Fantasy 5 (newly added)
+  * Epic Battle Fantasy 5
   * Fallout 3
   * Fallout New Vegas
-  * Gal Guardians - Servants of the Dark (newly added)
+  * Gal Guardians - Servants of the Dark
   * Gato Roboto
-  * Ghost Trick - Phantom Detective (newly added)
+  * Ghost Trick - Phantom Detective
   * God of War (2005)
   * Grand Theft Auto -  Chinatown Wars
   * Guacamelee! Super Turbo Championship Edition
+  * Gurumin - A Monstrous Adventure (newly added)
   * Jak and Daxter - The Lost Frontier
   * Juufuutei Raden's Guide for Pixel Museum
-  * Metal Gear (newly added)
-  * Metal Gear 2 - Solid Snake (newly added)
+  * Mega Man 1 (newly added)
+  * Mega Man 2 (newly added)
+  * Mega Man 3 (newly added)
+  * Mega Man 4 (newly added)
+  * Mega Man 5 (newly added)
+  * Mega Man 6 (newly added)
+  * Mega Man 7 (newly added)
+  * Mega Man 8 (newly added)
+  * Mega Man 9 (newly added)
+  * Mega Man 10 (newly added)
+  * Mega Man 11 (newly added)
+  * Mega Man and Bass (newly added)
+  * Mega Man Legends (newly added)
+  * Mega Man Legends 2 (newly added)
+  * Mega Man X4 (newly added)
+  * Mega Man X5 (newly added)
+  * Mega Man X6 (newly added)
+  * Mega Man X7 (newly added)
+  * Mega Man X8 (newly added)
+  * Mega Man Zero (newly added)
+  * Mega Man Zero 2 (newly added)
+  * Mega Man Zero 3 (newly added)
+  * Mega Man Zero 4 (newly added)
+  * Mega Man ZX (newly added)
+  * Mega Man ZX Advent (newly added)
+  * Metal Gear
+  * Metal Gear 2 - Solid Snake
   * Metal Gear Rising - Revengeance
-  * Metal Gear Solid (newly added)
-  * Metal Gear Solid VR Missions (newly added)
+  * Metal Gear Solid
   * Metal Gear Solid 2 - Sons of Liberty
   * Metal Gear Solid 3 - Snake Eater
+  * Metal Gear Solid VR Missions
   * Mighty Flip Champs
-  * Minecraft (newly added)
+  * Minecraft
   * Momodora Moonlit Farewell
-  * Muse Dash (newly added)
+  * Muse Dash
   * N Plus
-  * Neon White (newly added)
+  * Neon White
   * Okami
   * Pac-Man Championship Edition
-  * Peglin (newly added)
+  * Peglin
   * Persona 3 Portable
+  * Phoenix Wright - Ace Attorney (newly added)
+  * Phoenix Wright - Ace Attorney - Justice for All (newly added)
+  * Phoenix Wright - Ace Attorney - Trials and Tribulations (newly added)
   * Prince of Persia - The Sands of Time
-  * Rabi-Ribi (newly added)
+  * Professor Layton and the Curious Village (newly added)
+  * Professor Layton and the Lost Future / Unwound Future (newly added)
+  * Professor Layton and the Pandora's Box / Diabolical Box (newly added)
+  * Psychonauts (newly added)
+  * Rabi-Ribi
+  * Rain World (newly added)
   * Rogue Legacy
   * Secret Agent Clank
   * Shadow Labyrinth
-  * Snake's Revenge (newly added)
+  * Snake's Revenge
   * Sonic Adventure 2
   * Soulcalibur 2
   * Suikoden I & II HD Remaster
-  * The Messenger (newly added)
+  * Super Holo Wars (newly added)
+  * The Binding of Isaac (newly added)
+  * The Great Ace Attorney - Adventures (newly added)
+  * The Great Ace Attorney 2 - Resolve (newly added)
+  * The Messenger
+  * Theme Hospital (newly added)
   * Undertale
+  * Valkyria Chronicles (newly added)
   * Vampire Survivors
-  * WitchSpring R (newly added)
-  * WitchSpring 3 ReFine (newly added)
+  * WitchSpring 3 ReFine
+  * WitchSpring R
   * Yakuza 0
   * Yakuza Kiwami
 
 * **Touhou:**
   * Cirno! Lifts a Boulder
   * Fantasy Maiden Wars - Dream of the Stray Dreamer
-  * Help Me Remember, Satori-sama (newly added)
-  * I Am Sakuya (newly added)
+  * Help Me Remember, Satori-sama
+  * I Am Sakuya
   * Labyrinth of Touhou 2
-  * Marisa of Liartop Mountain (newly added)
-  * Shanghai.EXE (newly added)
+  * Marisa of Liartop Mountain
+  * Shanghai.EXE
   * Touhou - Highly Responsive to Prayers
   * Touhou 2 - Story of Eastern Wonderland
   * Touhou 3 - Phantasmagoria of Dim Dream
@@ -105,11 +146,11 @@ The following is a list of all the games that should have jingles:
   * Touhou 18.5 - Hidden Black Market
   * Touhou 19 - Unfinished Dream of All Living Ghost
   * Touhou 20 - Fossilised Wonders
-  * Touhou-A-Live (newly added)
+  * Touhou-A-Live
   * Touhou Artificial Dream in Arcadia
-  * Touhou Dystopian (newly added)
+  * Touhou Dystopian
   * Touhou Genso Wanderer Reloaded
-  * Touhou Gensomaroku W - The Devil of Decline (newly added)
+  * Touhou Gensomaroku W - The Devil of Decline
   * Touhou Hero of Ice Fairy
   * Touhou Lost Branch of Legend
   * Touhou Luna Nights
@@ -120,11 +161,11 @@ The following is a list of all the games that should have jingles:
   * Touhoumon Another World Version
   * Touhoumon World Link Version
   * Udongein X
-  * Youiyami Dancers - Twilight Danmaku Dancers (newly added)
+  * Youiyami Dancers - Twilight Danmaku Dancers
 
 * **Android:**
-  * Persona 5: The Phantom X (newly added)
-  * Umamusume Pretty Derby (newly added)
+  * Persona 5: The Phantom X
+  * Umamusume Pretty Derby
   
 * **Gamecube:**
   * Super Mario Eclipse
@@ -185,6 +226,7 @@ The following is a list of all the games that should have jingles:
   * Custom Robo
   * F-Zero X
   * Kirby 64 - The Crystal Shards
+  * Mischief Makers (newly added)
   * Paper Mario
   * Super Mario 64 - Beyond the Cursed Mirror
   * Super Mario 64 - Last Impact
@@ -205,6 +247,7 @@ The following is a list of all the games that should have jingles:
   * Mario and Luigi - Partners in Time
   * Newer Super Mario Bros. DS
   * Picross DS
+  * Professor Layton and the Spectre's Call (newly added)
   * Sonic Colors DS
   * Super Princess Peach
   * Tetris DS
@@ -213,10 +256,13 @@ The following is a list of all the games that should have jingles:
 * **NES:**
   * Castlevania - The Holy Relics
   * Castlevania III - Dracula's Curse
+  * Crystalis (newly added)
   * Darkwing Duck
   * Ducktales
   * Fire Emblem Gaiden
   * Kirby's Adventure
+  * River City Ransom (newly added)
+  * StarTropics (newly added)
   * Super Mario Bros. 3 Mix
   * The Legend of Zelda - Perils of Darkness
   
@@ -267,14 +313,18 @@ The following is a list of all the games that should have jingles:
 * **PSP:**
   * Bakemonogatari Portable
   * Castlevania - The Dracula X Chronicles
+  * Dead Head Fred (newly added)
+  * Half-Minute Hero (newly added)
   * Jeanne D'Arc
   * LittleBigPlanet PSP
   * LocoRoco
+  * Me and My Katamari (newly added)
   * Mega Man Maverick Hunter X
+  * Mega Man Powered Up (newly added)
   * Metal Gear Ac!d
-  * Metal Gear Solid - Peace Walker (newly added)
+  * Metal Gear Solid - Peace Walker
   * Metal Gear Solid - Portable Ops
-  * Metal Gear Solid - Portable Ops Plus (newly added)
+  * Metal Gear Solid - Portable Ops Plus
   * Patapon
   * Persona 2 - Innocent Sin
   * Phantom Brave - The Hermuda Triangle
@@ -282,6 +332,7 @@ The following is a list of all the games that should have jingles:
   * Splinter Cell Essentials
   * Super Robot Taisen A - Portable
   * Tetris Ultimate
+  * The 3rd Birthday (newly added)
   
 * **Saturn:**
   * Nights into Dreams... 
@@ -305,36 +356,38 @@ The following is a list of all the games that should have jingles:
   * The Legend of Zelda - A Link to the Past
 
 * **Steam:**
-  * 100% Orange Juice (newly added)
-  * Blue Prince (newly added)
-  * Chrono Gear - Warden of Time (newly added)
-  * Copy Kitty (newly added)
+  * 100% Orange Juice
+  * Blue Prince
+  * Chrono Gear - Warden of Time
+  * Copy Kitty
   * Cyberpunk 2077
-  * Demon Tides (newly added)
-  * FLARE NUINUI QUEST (newly added)
-  * FUBUKI - zero in on Holoearth (newly added)
-  * Golden Warden (newly added)
-  * Holo vs Robo (newly added)
-  * HoloCure (newly added)
+  * Demon Tides
+  * FEZ (newly added)
+  * FLARE NUINUI QUEST
+  * FUBUKI - zero in on Holoearth
+  * Golden Warden
+  * Holo vs Robo
+  * HoloCure
   * Judgment
-  * Last Command (newly added)
-  * Leximan (newly added)
+  * Last Command
+  * Leximan
   * Like a Dragon - Pirate Yakuza in Hawaii
   * Like a Dragon 8 - Infinite Wealth
   * Like a Dragon Gaiden - The Man Who Erased His Name
   * Lost Judgment
-  * Lovish (newly added)
+  * Lovish
   * Mega Man X Dive Offline
-  * Metal Gear Solid 5 - Ground Zeroes (newly added)
-  * Metal Gear Solid 5 - The Phantom Pain (newly added)
+  * Metal Gear Solid 5 - Ground Zeroes
+  * Metal Gear Solid 5 - The Phantom Pain
   * Mewgenics
   * Poker Night at the Inventory
   * Pseudoregalia
   * Sonic the Hedgehog Megamix Mania
-  * Super Meat Boy 3D (newly added)
+  * Super Meat Boy 3D
+  * Team Fortress 2 (newly added)
   * Undertale Red and Yellow
   * Undertale Yellow
-  * Void Stranger (newly added)
+  * Void Stranger
   * Yakuza Kiwami 2
   * Yakuza 3
   * Yakuza 4
@@ -343,16 +396,16 @@ The following is a list of all the games that should have jingles:
   * Yakuza 7 - Like a Dragon
   
 * **Switch:**
-  * Animal Crossing - New Horizons (newly added)
-  * Bayonetta 3 (newly added)
+  * Animal Crossing - New Horizons
+  * Bayonetta 3
   * Fire Emblem Three Houses
-  * Mario and Luigi - Brothership (newly added)
-  * Mario Kart 8 Deluxe (newly added)
+  * Mario and Luigi - Brothership
+  * Mario Kart 8 Deluxe
   * Pokemon Brilliant Diamond
-  * Pokemon Scarlet (newly added)
-  * Pokemon Shining Pearl (newly added)
-  * Pokemon Violet (newly added)
-  * Tomodachi Life - Living the Dream (newly added)
+  * Pokemon Scarlet
+  * Pokemon Shining Pearl
+  * Pokemon Violet
+  * Tomodachi Life - Living the Dream
   
 * **Wii:**
   * Kirby's Epic Yarn
