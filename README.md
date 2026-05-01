@@ -8,33 +8,42 @@ A forked repo made for use for Cocoon jingles.
 The following is a list of all the games that should have jingles:
 
 * **Multi-Platform (might not all be multi-plat but they are in that jingle folder):**
-  * Alien Hominid (Newly added)
+  * Alien Hominid
   * ANTONBLAST
   * Apollo Justice - Ace Attorney
   * Archibald's Adventures
+  * Assassin's Creed - The Ezio Collection (Newly added)
+  * Assassin's Creed 3 (Newly added)
   * Assassin's Creed IV Black Flag
-  * Baroque (Newly added)
-  * BLACK (2006) (Newly added)
+  * Baroque
+  * BLACK (2006)
   * BLADECHIMERA
   * Bully
   * Castlevania - Symphony of the Night
   * Cave Story
   * Chrono Ark
   * Chrono Trigger
-  * Crash Bandicoot - The Wrath of Cortex (2 variants) (Newly added)
-  * Crash Twinsanity (Newly added)
+  * Crash Bandicoot - The Wrath of Cortex (2 variants)
+  * Crash Twinsanity
   * Curse Crackers - For Whom the Belle Toils
   * Dead Cells
   * Deltarune
   * Devil Summoner - Raidou Kuzunoha vs. the Soulless Army
   * Devil Summoner - Soul Hackers
   * Dokapon Kingdom
-  * Dream Tactics (Newly added)
+  * Doki Doki Literature Club (Newly added)
+  * DOOM (2016) (Newly added)
+  * Doom (Newly added)
+  * Doom 2 - Hell on Earth (Newly added)
+  * Doom 3 (Newly added)
+  * Doom 64 (Newly added)
+  * Dream Tactics
   * Earthworm Jim
   * Earthworm Jim 2
   * Epic Battle Fantasy 5
   * Fallout 3
   * Fallout New Vegas
+  * Final Doom (Newly added)
   * Gal Guardians - Servants of the Dark
   * Gato Roboto
   * Geometry Dash
@@ -49,12 +58,14 @@ The following is a list of all the games that should have jingles:
   * Hyperdimension Neptunia ReBirth 2
   * Hyperdimension Neptunia ReBirth 3
   * Hyperdimension Neptunia U - Action Unleashed
-  * Hyrule Warriors (Newly added)
+  * Hyrule Warriors
   * Jak and Daxter - The Lost Frontier
   * Juufuutei Raden's Guide for Pixel Museum
   * Klonoa - The Door to Phantomile
   * Klonoa 2 - Lunatea's Veil
-  * Legacy of Kain Defiance (Newly added)
+  * Legacy of Kain Defiance
+  * Luigi's Mansion (Newly added)
+  * Luigi's Mansion 2 (Newly added)
   * Makai Kingdom
   * Mega Man 1
   * Mega Man 10
@@ -94,10 +105,11 @@ The following is a list of all the games that should have jingles:
   * Momodora Moonlit Farewell
   * Muse Dash
   * N Plus
-  * NecroKing (Newly added)
+  * NecroKing
   * Neon White
   * Okami
   * Pac-Man Championship Edition
+  * Paper Mario - The Thousand Year Door (Newly added)
   * Peglin
   * Persona 2 - Eternal Punishment
   * Persona 3 Portable
@@ -113,7 +125,7 @@ The following is a list of all the games that should have jingles:
   * Professor Layton and the Lost Future / Unwound Future
   * Professor Layton and the Pandora's Box / Diabolical Box
   * Psychonauts
-  * Pumpkin Jack (Newly added)
+  * Pumpkin Jack
   * Rabi-Ribi
   * Rain World
   * Return to Monkey Island
@@ -129,12 +141,14 @@ The following is a list of all the games that should have jingles:
   * Shin Megami Tensei IV
   * Shin Megami Tensei IV - Apocalypse
   * Shin Megami Tensei V
+  * Slime Rancher
   * Snake's Revenge
-  * Slime Rancher (Newly added)
   * Sonic Adventure 2
   * Soul Hackers 2
   * Soulcalibur 2
-  * SteamWorld Heist (Newly added)
+  * Space Channel 5 (Newly added)
+  * Space Channel 5 - Part 2 (Newly added)
+  * SteamWorld Heist
   * Suikoden I & II HD Remaster
   * Super Holo Wars
   * Tales of the Abyss
@@ -151,7 +165,7 @@ The following is a list of all the games that should have jingles:
   * TimeSplitters - Future Perfect
   * TimeSplitters 2
   * Undertale
-  * Unpacking (Newly added)
+  * Unpacking
   * Valkyria Chronicles
   * Vampire Survivors
   * WitchSpring 3 ReFine
@@ -221,21 +235,22 @@ The following is a list of all the games that should have jingles:
 * **3DS:**
   * The Legend of Zelda - A Link Between Worlds
   * The Legend of Zelda - Tri Force Heroes
+  * WarioWare Gold (Newly added)
 
 * **Android:**
   * Persona 5: The Phantom X
   * Umamusume Pretty Derby
   
 * **Gamecube:**
-  * Eternal Darkness - Sanity's Requiem (Newly added)
-  * F-Zero GX (Newly added)
-  * Kururin Squash (Newly added)
-  * Star Fox Assault (Newly added)
+  * Eternal Darkness - Sanity's Requiem
+  * F-Zero GX
+  * Kururin Squash
+  * Star Fox Assault
   * Super Mario Eclipse
-  * Super Monkey Ball (Newly added)
+  * Super Monkey Ball
   * The Legend of Zelda - Four Swords Adventures
   * Viewtiful Joe
-  * Wario World (Newly added)
+  * Wario World
 
 * **GBA:**
   * Black Matrix Zero
@@ -266,6 +281,8 @@ The following is a list of all the games that should have jingles:
   * The Legend of Zelda - A Link to the Past + Four Swords
   * The Legend of Zelda - The Minish Cap
   * Tomato Adventure
+  * WarioWare - Twisted (Newly added)
+  * WarioWare Inc. - Mega Party Games (Newly added)
   * Wario Land 4
 
 * **GBC:**
@@ -361,10 +378,11 @@ The following is a list of all the games that should have jingles:
   * Tetris DS
   * The Legend of Zelda - Phantom Hourglass
   * The Legend of Zelda - Spirit Tracks
+  * WarioWare - Touched (Newly added)
   * Worms Open Warfare 2
 
 * **NES:**
-  * Castlevania (Newly added)
+  * Castlevania
   * Castlevania - The Holy Relics
   * Castlevania III - Dracula's Curse
   * Crystalis
@@ -391,17 +409,17 @@ The following is a list of all the games that should have jingles:
   * Celeste 2
 
 * **PSX (PS1):**
-  * Brave Fencer Musashi (Newly added)
+  * Brave Fencer Musashi
   * Castlevania Chronicles
   * Crash Bandicoot
   * Crash Bandicoot 2 - Cortex Strikes Back
   * Crash Bandicoot 3 - Warped
   * MediEvil
   * MediEvil II
-  * Silent Hill (Newly added)
+  * Silent Hill
   * The Misadventures of Tron Bonne
-  * Threads of Fate (Newly added)
-  * Tiny Bullets (Newly added)
+  * Threads of Fate
+  * Tiny Bullets
   * Um Jammer Lammy
   * Wild Arms
   
@@ -432,16 +450,23 @@ The following is a list of all the games that should have jingles:
 * **PSP:**
   * Bakemonogatari Portable
   * Castlevania - The Dracula X Chronicles
+  * Cladun - This is an RPG (Newly added)
+  * Crush (Newly added)
   * Dead Head Fred
-  * DJ Max Portable - Black Square (Newly added)
+  * DJ Max Portable - Black Square
   * Half-Minute Hero
-  * Hatsune Miku - Project Diva Extend (Newly added)
-  * Hexyz Force (Newly added)
+  * Hammerin' Hero (Newly added)
+  * Hatsune Miku - Project Diva Extend
+  * Hexyz Force
   * Jeanne D'Arc
+  * Kurohyou - Ryu ga Gotoku Shinsho (Newly added)
+  * Kurohyou 2 - Ryu ga Gotoku Ashura-hen (Newly added)
   * LittleBigPlanet PSP
   * LocoRoco
-  * Lord of Apocalypse (Newly added)
+  * Lord of Apocalypse
+  * Lucky Star - Net Idol Meister (Newly added)
   * Me and My Katamari
+  * MediEvil Resurrection (Newly added)
   * Mega Man Maverick Hunter X
   * Mega Man Powered Up
   * Metal Gear Ac!d
@@ -452,12 +477,13 @@ The following is a list of all the games that should have jingles:
   * Persona 2 - Innocent Sin
   * Phantom Brave - The Hermuda Triangle
   * Prinny - Can I Really Be the Hero?
-  * Sol Trigger (Newly added)
+  * Sol Trigger
   * Splinter Cell Essentials
   * Super Robot Taisen A - Portable
-  * Sword Art Online - Infinity Moment (Newly added)
+  * Sword Art Online - Infinity Moment
   * Tetris Ultimate
   * The 3rd Birthday
+  * Yu-Gi-Oh! ARC-V Tag Force Special (Newly added)
   
 * **PS Vita:**
   * Gravity Rush
@@ -534,17 +560,24 @@ The following is a list of all the games that should have jingles:
   * Animal Crossing - New Horizons
   * Bayonetta 3
   * Fire Emblem Three Houses
-  * Hyrule Warriors - Age of Calamity (Newly added)
+  * Hyrule Warriors - Age of Calamity
+  * Luigi's Mansion 3 (Newly added)
   * Mario and Luigi - Brothership
   * Mario Kart 8 Deluxe
+  * Paper Mario - The Origami King (Newly added)
   * Pokemon Brilliant Diamond
   * Pokemon Scarlet
   * Pokemon Shining Pearl
   * Pokemon Violet
+  * Super Mario Bros. Wonder (Newly added)
+  * Super Mario Maker 2 (Newly added)
+  * Super Smash Bros. Ultimate (Newly added)
   * The Legend of Zelda - Echoes of Wisdom
   * Tomodachi Life - Living the Dream
-  * Xenoblade Chronicles - Definitive Edition (Newly added)
-  * Xenoblade Chronicles 2 (Newly added)
+  * WarioWare - Get It Together (Newly added)
+  * WarioWare - Move It (Newly added)
+  * Xenoblade Chronicles - Definitive Edition
+  * Xenoblade Chronicles 2
   
 * **Wii:**
   * Kirby's Epic Yarn
@@ -555,4 +588,5 @@ The following is a list of all the games that should have jingles:
   
 * **Wii U:**
   * Game & Wario
+  * Paper Mario - Color Splash (Newly added)
   * The Wonderful 101
