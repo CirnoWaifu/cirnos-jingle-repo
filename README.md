@@ -3,6 +3,8 @@
 A forked repo made for use for Cocoon jingles.
 [Cocoon](https://github.com/inssekt/CocoonFE).
 
+Current version = V6.0
+
 [Make sure to check back to the original repo as well!](https://github.com/inssekt/cocoon-jingle-repo/tree/main)
 
 The following is a list of all the games that should have jingles:
