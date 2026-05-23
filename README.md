@@ -7,7 +7,7 @@ Current version = V7.1
 
 [Make sure to check back to the original repo as well!](https://github.com/inssekt/cocoon-jingle-repo/tree/main)
 
-[Also, feel free to check out the Ultimate Jingles pack, they use a good chunk of these exact jingles (no shade or anything, credit would be neat but not required).](https://github.com/Rayan7Be/Ultimate-Jingles)
+[Also, feel free to check out the Ultimate Jingles pack, they use a good chunk of these exact jingles.](https://github.com/Rayan7Be/Ultimate-Jingles)
 
 The following is a list of all the games that should have jingles:
 
