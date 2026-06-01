@@ -3,7 +3,7 @@
 A forked repo made for use for Cocoon jingles.
 [Cocoon](https://github.com/inssekt/CocoonFE).
 
-Current version = V7.1
+Current version = V8.0
 
 [Make sure to check back to the original repo as well!](https://github.com/inssekt/cocoon-jingle-repo/tree/main)
 
@@ -19,8 +19,11 @@ The following is a list of all the games that should have jingles:
   * Assassin's Creed IV Black Flag
   * Baroque
   * Batman - Arkham Asylum
-  * Batman - Arkham City (Newly added)
-  * Batman - Arkham Origins (Newly added)
+  * Batman - Arkham City
+  * Batman - Arkham Origins
+  * Bioshock (Newly added)
+  * Bioshock 2 (Newly added)
+  * Bioshock Infinite (Newly added)
   * BLACK (2006)
   * BLADECHIMERA
   * Bully
@@ -28,14 +31,14 @@ The following is a list of all the games that should have jingles:
   * Cave Story
   * Chrono Ark
   * Chrono Trigger
-  * Cold Fear (Newly added)
+  * Cold Fear
   * Crash Bandicoot - The Wrath of Cortex (2 variants)
   * Crash Twinsanity
   * Cuphead
   * Curse Crackers - For Whom the Belle Toils
   * Dead Cells
   * Deltarune
-  * Deus Ex - Human Revolution (Newly added)
+  * Deus Ex - Human Revolution
   * Devil May Cry
   * Devil May Cry 2
   * Devil May Cry 3
@@ -67,7 +70,7 @@ The following is a list of all the games that should have jingles:
   * Fallout Shelter
   * Final Doom
   * Final Fantasy Type-0
-  * Freedom Fighters (Newly added)
+  * Freedom Fighters
   * Gal Guardians - Servants of the Dark
   * Gato Roboto
   * Geometry Dash
@@ -146,18 +149,20 @@ The following is a list of all the games that should have jingles:
   * Metal Gear Solid 3 - Snake Eater
   * Metal Gear Solid VR Missions
   * Mighty Flip Champs
+  * Mina the Hollower (Newly added)
   * Minecraft
   * Momodora Moonlit Farewell
   * Muse Dash
   * N Plus
   * NecroKing
   * Neon White
-  * ObsCure (Newly added)
+  * ObsCure
   * Okami
   * Outer Wilds
   * Pac-Man Championship Edition
   * Paper Mario - The Thousand Year Door
   * PaRappa the Rapper
+  * Payday 2 (Newly added)
   * Peglin
   * Persona 2 - Eternal Punishment
   * Persona 3 Portable
@@ -187,10 +192,15 @@ The following is a list of all the games that should have jingles:
   * Return to Monkey Island
   * Revelations - Persona
   * Rogue Legacy
-  * Second Sight (Newly added)
+  * Second Sight
   * Secret Agent Clank
   * Shadow Labyrinth
   * Shadow the Hedgehog
+  * Shovel Knight - King of Cards (Newly added)
+  * Shovel Knight - Plague of Shadows (Newly added)
+  * Shovel Knight - Showdown (Newly added)
+  * Shovel Knight - Shovel of Hope (Newly added)
+  * Shovel Knight - Specter of Torment (Newly added)
   * Shin Megami Tensei
   * Shin Megami Tensei - Nocturne
   * Shin Megami Tensei - Strange Journey
@@ -221,7 +231,7 @@ The following is a list of all the games that should have jingles:
   * Soulcalibur 2
   * Space Channel 5
   * Space Channel 5 - Part 2
-  * Sphinx and the Cursed Mummy (Newly added)
+  * Sphinx and the Cursed Mummy
   * Spyro - A Hero's Tail
   * Spyro - Enter the Dragonfly
   * SteamWorld Heist
@@ -244,18 +254,20 @@ The following is a list of all the games that should have jingles:
   * The Legend of Zelda - Skyward Sword
   * The Legend of Zelda - The Wind Waker
   * The Messenger
-  * The Suffering (Newly added)
+  * The Suffering
   * Theme Hospital
   * TimeSplitters
   * TimeSplitters - Future Perfect
   * TimeSplitters 2
   * TUNIC
+  * UFO 50 (Newly added)
+  * Ultimate Spider-Man (Newly added)
   * Undertale
   * Unpacking
   * Valkyria Chronicles
   * Vampire Survivors
   * Vampyr
-  * Van Helsing (Newly added)
+  * Van Helsing
   * WitchSpring 3 ReFine
   * WitchSpring R
   * XIII
@@ -359,7 +371,9 @@ The following is a list of all the games that should have jingles:
   * WarioWare Gold
 
 * **Android:**
+  * Blue Archive (Newly added)
   * Persona 5: The Phantom X
+  * Ratchet and Clank - Ranger Rumble (Newly added)
   * Umamusume Pretty Derby
   
 * **Gamecube:**
@@ -576,13 +590,13 @@ The following is a list of all the games that should have jingles:
   * Castlevania - Lament of Innocence
   * Cowboy Bebop - Tsuitou no Yakyoku
   * Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon
-  * Echo Night - Beyond (Newly added)
+  * Echo Night - Beyond
   * Fallout - Brotherhood of Steel
-  * Ghosthunter (Newly added)
+  * Ghosthunter
   * Gitaroo Man
   * God Hand (2006)
-  * Gregory Horror Show (Newly added)
-  * Haunting Ground (Newly added)
+  * Gregory Horror Show
+  * Haunting Ground
   * Jak II
   * Jak III
   * JoJo no Kimyou na Bouken - Ougon no Kaze
@@ -604,7 +618,7 @@ The following is a list of all the games that should have jingles:
   * Sly 2 - Band of Thieves
   * Sly 3 - Honor Among Thieves
   * Soul Eater - Battle Resonance
-  * Xenosaga Episode I (Newly added)
+  * Xenosaga Episode I
   * Yakuza
   * Yakuza 2
   
@@ -687,12 +701,16 @@ The following is a list of all the games that should have jingles:
   * Chrono Gear - Warden of Time
   * Copy Kitty
   * Cyberpunk 2077
+  * Dayshift at Freddy's (Newly added)
+  * Dayshift at Freddy's 2 (Newly added)
+  * Dayshift at Freddy's 3 (Newly added)
   * Demon Tides
   * Devil May Cry 5
   * Fallout
   * Fallout 2
   * Fallout Tactics
   * FEZ
+  * Five Nights at Frickbear's 3 (Newly added)
   * FLARE NUINUI QUEST
   * FUBUKI - zero in on Holoearth
   * Golden Warden
@@ -704,6 +722,7 @@ The following is a list of all the games that should have jingles:
   * Judgment
   * Kingdom Hearts III
   * Last Command
+  * LEGO Batman - Legacy of the Dark Knight (Newly added)
   * Leximan
   * Like a Dragon - Pirate Yakuza in Hawaii
   * Like a Dragon 8 - Infinite Wealth
@@ -714,6 +733,8 @@ The following is a list of all the games that should have jingles:
   * Metal Gear Solid 5 - Ground Zeroes
   * Metal Gear Solid 5 - The Phantom Pain
   * Mewgenics
+  * MOTORSLICE (Newly added)
+  * Payday - The Heist (Newly added)
   * Poker Night at the Inventory
   * PRAGMATA
   * Pseudoregalia
@@ -721,6 +742,7 @@ The following is a list of all the games that should have jingles:
   * Sonic the Hedgehog Megamix Mania
   * Super Meat Boy 3D
   * Team Fortress 2
+  * ULTRAKILL (2 variants) (Newly added)
   * Undertale Red and Yellow
   * Undertale Yellow
   * Void Stranger
